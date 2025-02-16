@@ -1,0 +1,9 @@
+﻿  Final.c
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(188,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(189,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(387,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(424,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(453,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(455,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\Final.c(577,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FinalCal.vcxproj -> C:\Users\user\OneDrive\바탕 화면\중앙대학교\1학년 2학기\프로그래밍\FinalCal\x64\Debug\FinalCal.exe
